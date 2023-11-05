@@ -13,5 +13,5 @@ hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-tau
     <li>I am possessing a strong willingness to learn about entrepreneurship.</li>
     <li>I communicate effectively in a team setting.</li>
     <li>2024 Goals: Learn more about web.</li>
-    <li>Ask me about anything, I am happy to help,[email](mailto:sazitislam96@gmail.com)</li>
+    <li>Ask me about anything, I am happy to help,<a href="mailto:sazitislam96@gmail.com">email</a></li>
 </ul>
