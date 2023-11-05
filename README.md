@@ -86,14 +86,16 @@ hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-tau
     height="320"
 />
 
-<h2>Talking about Personal Stuffs:</h2>
-<ul>
-    <li>I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
-    <li>I am possessing a strong willingness to learn about entrepreneurship.</li>
-    <li>I communicate effectively in a team setting.</li>
-    <li>2024 Goals: Learn more about web.</li>
-    <li>Ask me about anything, I am happy to help,<a href="mailto:sazitislam96@gmail.com">email:)</a></li>
-</ul>
+<p dir="auto">
+        <strong>Talking about Personal Stuffs:</strong>
+        <ul>
+            <li>I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
+            <li>I am possessing a strong willingness to learn about entrepreneurship.</li>
+            <li>I communicate effectively in a team setting.</li>
+            <li>2024 Goals: Learn more about web.</li>
+            <li>Ask me about anything, I am happy to help,<a href="mailto:sazitislam96@gmail.com">email:)</a></li>
+        </ul>
+    </p>
 <p dir="auto">
         <strong>languages and tools:</strong>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -101,4 +103,4 @@ hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-tau
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    </p>
+</p>
