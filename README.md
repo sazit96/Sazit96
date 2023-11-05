@@ -1,47 +1,81 @@
 hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-taught web developer and i love to learn new things, i am from Bangladesh.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 <div align="center" dir="auto">
-
-        <a href="https://www.facebook.com/profile.php?id=100009389918876" rel="nofollow">
-        <img width="22px" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="max-width: 100%;">
-        </a>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <a href="https://twitter.com/sazit969" rel="nofollow">
-          <img width="22px" alt="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;">
-        </a>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <a href="https://www.linkedin.com/in/ehosanul-islam-sazit/" rel="nofollow">
-          <img width="22px" alt="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="max-width: 100%;">
-        </a>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <a href="https://codeforces.com/profile/sazit96" rel="nofollow">
-        <img width="22px" alt="Codeforces" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" style="max-width: 100%;">
-        </a>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <a href="https://www.instagram.com/sazit_96/" rel="nofollow">
-          <img width="22px" alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="max-width: 100%;">
-        </a>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <span>&nbsp;</span>
-        <a href="https://www.reddit.com/user/Classic-Egg-9155" rel="nofollow">
-          <img width="22px" alt="reddit" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" style="max-width: 100%;">
-        </a>
-
-</div>
+      <a
+        href="https://www.facebook.com/profile.php?id=100009389918876"
+        rel="nofollow"
+      >
+        <img
+          width="22px"
+          alt="Facebook"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+          style="max-width: 100%"
+        />
+      </a>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <a href="https://twitter.com/sazit969" rel="nofollow">
+        <img
+          width="22px"
+          alt="twitter"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+          style="max-width: 100%"
+        />
+      </a>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <a
+        href="https://www.linkedin.com/in/ehosanul-islam-sazit/"
+        rel="nofollow"
+      >
+        <img
+          width="22px"
+          alt="Linkedin"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          style="max-width: 100%"
+        />
+      </a>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <a href="https://codeforces.com/profile/sazit96" rel="nofollow">
+        <img
+          width="22px"
+          alt="Codeforces"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+          style="max-width: 100%"
+        />
+      </a>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <a href="https://www.instagram.com/sazit_96/" rel="nofollow">
+        <img
+          width="22px"
+          alt="Instagram"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          style="max-width: 100%"
+        />
+      </a>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <span>&nbsp;</span>
+      <a href="https://www.reddit.com/user/Classic-Egg-9155" rel="nofollow">
+        <img
+          width="22px"
+          alt="reddit"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
+          style="max-width: 100%"
+        />
+      </a>
+    </div>
 <br>
 
 <img
