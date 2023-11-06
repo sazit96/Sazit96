@@ -106,11 +106,17 @@ hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-tau
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </p>
 <br>
-<p>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=sazit96&show_icons=true&theme=holi"
-      alt="GitHub Readme Stats"
-      height="50%"
-      width="50%"
-    />
-</p>
+<p align="center" dir="auto">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=sazit96&show_icons=true&theme=holi"
+        alt="GitHub Readme Stats"
+        height="50%"
+        width="50%"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazit96&amp;theme=holi&amp;show_icons=true&amp;hide_border=true&amp;layout=compact"
+        alt="sazit96's Top Languages"
+        height="50%"
+        width="41.7%"
+      />
+  </p>
