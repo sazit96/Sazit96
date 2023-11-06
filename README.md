@@ -106,6 +106,7 @@ hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-tau
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </p>
 <br>
+<p dir="auto">📈 <strong>My GitHub Stats</strong></p>
 <p align="center" dir="auto">
       <img
         src="https://github-readme-stats.vercel.app/api?username=sazit96&show_icons=true&theme=holi"
