@@ -129,6 +129,10 @@ hi, i'm [Ehosanul Islam Sazit](https://github.com/sazit96),a passionate self-tau
         width="41.7%"
       />
   </p>
+  <p align="center"> 
+  <b>Visitors count</b><br><br>
+  <img src="https://profile-counter.glitch.me/sazit96/count.svg" />
+</p>
   <p align="center" dir="auto">
       <img src="imgs/BD.gif" alt="GIF" width="180" height="135" />
   </p>
